@@ -1,0 +1,42 @@
+body{
+    background-color: papayawhip;
+}
+h1{
+    color:blue;
+    text-align: center;
+    font-size: 50px;
+    text-decoration:underline;
+}
+td{
+    padding: 7.5px;
+}
+#table2{
+    margin-top: 20px;
+}
+.rowspan{
+    padding: 10px;
+}
+.pink{
+    background-color: rgb(245, 125, 195);
+}
+.white{
+    background-color: beige;
+}
+.orange{
+    background-color:darkorange;
+}
+.blue{
+    background-color: blue;
+}
+.grey{
+    background-color: grey;
+}
+.brown{
+    background-color: brown;
+}
+.darkblue{
+    background-color: darkblue;
+}
+.shedpink{
+    background-color: rgb(245, 170, 207);
+}

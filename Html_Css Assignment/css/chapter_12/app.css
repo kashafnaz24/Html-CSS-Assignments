@@ -1,0 +1,37 @@
+ 
+body{
+    padding: 20px;
+}
+h1{
+    font-size: 60px;
+    font-family: unset;
+}
+h2{
+    font-size: 30px;
+    font-family: unset; 
+    text-shadow: 5px 5px 5px #777777;
+}
+p{
+    font-size: 23px;
+}
+li{
+    font-size: 23px; 
+    font-weight: bolder;
+}
+#cloud{
+    color: blue;
+}
+.firstword{
+    font-size: 50px;
+}
+h3{
+    font-size: 25px;
+}
+#by{
+    text-align: center;
+
+}
+#madeby{
+    color: blue;
+    text-decoration: underline;
+}
